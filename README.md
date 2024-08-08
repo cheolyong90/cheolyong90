@@ -29,3 +29,8 @@
     <div style="text-align: left;">  </div> 
     </div>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📂 프로젝트 </h2> <br>
+    <h4><a href="https://github.com/cheolyong90/Boo.git">프리랜선</a></h4>
+    <span>프리랜서 정보 공유 커뮤니티</span>
+    <h4><a href="https://github.com/cheolyong90/E1I4.git">프리랜선</a></h4>
+    <span>서울시(구)민을 위핸 정보 공유 플랫폼</span>
+    
